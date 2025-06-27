@@ -1,1 +1,1 @@
-# Algo-Trading-System-with-ML-Automation
+# This system connects to Yahoo Finance to fetch daily data for three NIFTY 50 stocks. It applies a rule-based trading strategy using RSI and moving average crossovers, logs trades in Google Sheets, and includes a machine learning model to predict next-day movement. The entire process is automated and modular.
